@@ -14,7 +14,8 @@ import java.util.Properties;
 
 public class MailController {
     /**
-     * 发送邮件(方式1)
+     * 发送邮件(方式1) D:\linux系统的安装\demo\Config\log4j.properties
+     * D:\linux系统的安装\demo\Config\log4j.properties
      */
     public static void main(String[] args) throws EmailException {
 
