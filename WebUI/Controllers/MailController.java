@@ -14,7 +14,7 @@ import java.util.Properties;
 
 public class MailController {
     /**
-     * 发送邮件(方式1 xj)
+     * 发送邮件(方式1)
      */
     public static void main(String[] args) throws EmailException {
 
