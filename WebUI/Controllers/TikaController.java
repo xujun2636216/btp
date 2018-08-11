@@ -19,7 +19,7 @@ public class TikaController {
             BodyContentHandler handler = new BodyContentHandler();
             Metadata metadata = new Metadata();
             FileInputStream inputstream = null;
-            inputstream = new FileInputStream(new File("Example.pdf"));
+            inputstream = new FileInputStream(new File("D:\\linux系统的安装\\2011_Java程序员面试宝典%28免费%29.pdf"));
             ParseContext pcontext = new ParseContext();
 
             //parsing the document using PDF parser
